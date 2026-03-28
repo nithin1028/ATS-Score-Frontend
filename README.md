@@ -42,7 +42,7 @@ An ATS (Applicant Tracking System) Resume Builder application designed to help u
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ats-resume-builder.git
+git clone https://github.com/nithin1028/ATS-Score-Frontend/edit/main 
 cd ats-resume-builder
 
 
